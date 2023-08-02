@@ -155,7 +155,7 @@ nav .menu ul li span{
 
 .container_about .row img{
     text-align: right;
-    padding-right: 260px;
+    padding-right: px;
 }
 .container_about .row h6{
     font-size: 14px;
@@ -225,7 +225,7 @@ font-weight: 400;
     font-weight: 400;
 }
 .container_skills .row img{
-    padding: 25px;
+    padding: px;
 }
 /* SKILLS SECTION  END HERE*/
 /* SERVICE SECTION  START HERE*/
